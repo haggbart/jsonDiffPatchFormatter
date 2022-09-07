@@ -1,0 +1,26 @@
+{
+  "name": "jsondiffpatchformatter",
+  "version": "1.0.0",
+  "description": "jsondiffpatch with just the formatter",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/haggbart/jsonDiffPatchFormatter.git"
+  },
+  "keywords": [
+    "json",
+    "diff",
+    "diffing",
+    "jsondiffpatch",
+    "formatter"
+  ],
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/haggbart/jsonDiffPatchFormatter/issues"
+  },
+  "homepage": "https://github.com/haggbart/jsonDiffPatchFormatter#readme"
+}
